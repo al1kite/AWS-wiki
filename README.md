@@ -2,7 +2,7 @@
 ![image](https://github.com/al1kite/AWS-wiki/assets/102217402/09cae637-42f6-479e-ac7d-cadac95d28d3)
 AWS 관련 공부 및 스터디를 진행하고 정리하는 페이지 입니다.
 
-## 상반기 커리큘럼 - 비전공자도 이해할 수 있는 AWS 입문/실전
+## 상반기 스터디 - 비전공자도 이해할 수 있는 AWS 입문/실전
  <details>
     <summary>백엔드 API 서버 배포하기 (EC2)</summary>
    
